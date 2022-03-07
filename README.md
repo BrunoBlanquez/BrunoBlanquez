@@ -1,4 +1,4 @@
-Me chamo Bruno Blanquez, atualmente em transição de área como desenvolvedor Front-End. Possuo conhecimentos em HTML5/CSS3 e estou me aprimorando em JavaScript. 
-Busco oportunidades para inicar minha carreira como Front-end Developer.
+Me chamo Bruno Blanquez, atualmente em transição de área como desenvolvedor Full-stack. Possuo conhecimentos em HTML5, CSS3, JavaScript e me desenvolvendo em tecnologias Back-end. 
+Busco oportunidades para inicar minha carreira como desenvolvedor.
 
 
